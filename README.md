@@ -1,7 +1,7 @@
 ## Hi, I'm Werapat Promwijit (mai)👋
 ### Computer Science, KMITL (CS40)
 
-I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technology Ladkrabang (KMITL), majoring in Computer Science. I'm passionate about deep learning, especially in computer vision, but I also have a strong interest in data engineering.
+I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technology Ladkrabang (KMITL), majoring in Computer Science. I'm passionate about deep learning, especially in computer vision, but I also have a strong interest in data engineering. I'm currently seeking an internship in Data Engineering or AI Engineering to apply my skills and gain hands-on experience in these fields.
 
 ## Programming Skills & Technology Stack
 
