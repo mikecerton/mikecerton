@@ -5,7 +5,7 @@ I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technol
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages ( Python, Java, C++, SQL ) <br>
+- ⚙️ Programming Languages ( Python, SQL, Java, C++ ) <br>
 
 - 💾 Database ( Oracle, MySQL, PostgreSQL, MongoDB  ) <br>
 
