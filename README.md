@@ -15,7 +15,10 @@ I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technol
 
 - 🔎 Data Engineer Tools [ Spark, Hadoop, Airflow ] <br>
 
+- 📊 data visualization [ PowerBI, Looker Studio ] <br>
+
 - 🔧 Other Tools [ Docker, Git ] <br>
+
 
 ### Socials
 
