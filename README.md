@@ -5,15 +5,17 @@ I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technol
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages ( Python, SQL, Java, C++ ) <br>
+- ⚙️ Programming Languages [ Python, SQL, Java, C++ ] <br>
 
-- 💾 Database ( Oracle, MySQL, PostgreSQL, MongoDB  ) <br>
+- 💾 Database [ Oracle, MySQL, PostgreSQL, MongoDB  ] <br>
 
-- 🤖 Machine Learning Tools ( Pytorch, Keras, Tensorfflow, OpenCV ) <br>
+- ☁️ Cloud [ AWS ] <br>
 
-- 🔎 Data Engineer Tools ( Spark, Hadoop, Airflow ) <br>
+- 🤖 Machine Learning Tools [ Pytorch, Keras, Tensorfflow, OpenCV ] <br>
 
-- 🔧 Other Tools ( Docker, Git ) <br>
+- 🔎 Data Engineer Tools [ Spark, Hadoop, Airflow ] <br>
+
+- 🔧 Other Tools [ Docker, Git ] <br>
 
 ### Socials
 
