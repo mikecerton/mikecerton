@@ -11,7 +11,7 @@ I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technol
 
 - ☁️ Cloud [ AWS ] <br>
 
-- 🤖 Machine Learning Tools [ Pytorch, Keras, Tensorfflow, OpenCV ] <br>
+- 🤖 Machine Learning Tools [ Pytorch, Keras, Tensorfflow, OpenCV, scikit-learn ] <br>
 
 - 🔎 Data Engineer Tools [ Spark, Hadoop, Airflow ] <br>
 
