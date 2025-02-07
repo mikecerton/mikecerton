@@ -17,7 +17,7 @@ I'm Werapat Promwijit, a 4th-year student at King Mongkut's Institute of Technol
 
 - 📊 data visualization [ PowerBI, Looker Studio ] <br>
 
-- 🔧 Other Tools [ Docker, Git ] <br>
+- 🔧 Other Tools [ Docker, Git, excel ] <br>
 
 
 ### Socials
