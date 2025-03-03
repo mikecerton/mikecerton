@@ -5,9 +5,9 @@
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages [ Python, SQL, Java, C++ ] <br>
+- ⚙️ Programming Languages [ Python, SQL, Java, C ] <br>
 
-- 💾 Database [ Oracle, MySQL, PostgreSQL, MongoDB  ] <br>
+- 💾 Database [ Oracle, MySQL, PostgreSQL, MongoDB ] <br>
 
 - ☁️ Cloud [ AWS ] <br>
 
