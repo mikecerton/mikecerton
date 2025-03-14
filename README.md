@@ -1,7 +1,7 @@
 ## Hi, I'm Werapat Promwijit (mai)👋
 #### Computer Science, KMITL (CS40)
 ## 🚀- About me
-&emsp;My name is Weerapat Promwijit, and I am a 4th-year Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL). I have a strong interest in data engineering, and I am also passionate about deep learning, especially in computer vision. I'm currently seeking a job as a Data Engineer or AI Engineer where I can apply my skills and gain hands-on experience in these fields.
+&emsp;My name is Weerapat Promwijit, and I am a 4th-year Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL). I have a strong interest in data engineering, and I am also passionate about deep learning, especially in computer vision.
 
 ## 💡- Programming Skills & Technology Stack
 
