@@ -5,19 +5,15 @@
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages [ Python, SQL, Java, C ] <br>
+- ⚙️ Programming Languages: [ Python, SQL, Java, C, Shell Script ] <br>
+- 🔎 Big Data & Processing Tools: [ PySpark, Databricks, Apache Kafka, Apache Airflow ] <br>
+- 💾 Relational Database: [ Oracle, MySQL, PostgreSQL ] <br>
+- 💾 NoSQL Database: [ MongoDB, CouchDB ] <br>
+- ☁️ Cloud Platforms: [ AWS ] <br>
+- 📊 Data Visualization: [ Power BI, Looker Studio ] <br>
+- 🤖 Machine Learning & Deep Learning: [ PyTorch, Keras, TensorFlow, OpenCV, Scikit-learn ] <br>
+- 🔧 DevOps & Other Tools: [ Docker, Git, Excel ] <br>
 
-- 💾 Database [ Oracle, MySQL, PostgreSQL, MongoDB ] <br>
-
-- ☁️ Cloud [ AWS ] <br>
-
-- 🤖 Machine Learning Tools [ Pytorch, Keras, Tensorfflow, OpenCV, scikit-learn ] <br>
-
-- 🔎 Data Engineer Tools [ Spark, Hadoop, Airflow ] <br>
-
-- 📊 data visualization [ PowerBI, Looker Studio ] <br>
-
-- 🔧 Other Tools [ Docker, Git, excel ] <br>
 
 
 ### Socials
