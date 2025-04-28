@@ -12,7 +12,7 @@
 - ☁️ Cloud Platforms: [ AWS ] <br>
 - 📊 Data Visualization: [ Power BI, Looker Studio ] <br>
 - 🤖 Machine Learning & Deep Learning: [ PyTorch, Keras, TensorFlow, OpenCV, Scikit-learn ] <br>
-- 🔧 DevOps & Other Tools: [ Docker, Git, Excel ] <br>
+- 🔧 DevOps & Other Tools: [ Kubernetes(Basic), Docker, Git, Excel ] <br>
 
 
 
