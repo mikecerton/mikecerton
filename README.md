@@ -5,7 +5,7 @@
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages: [ Python, SQL, Java, C++, Shell Script ] <br>
+- ⚙️ Programming Languages: [ Python, SQL, Java, Shell Script ] <br>
 - 🔎 Big Data & Processing Tools: [ Apache Spark, Apache Kafka, Apache Airflow ] <br>
 - 💾 Relational Database: [ Oracle, MySQL, PostgreSQL ] <br>
 - 💾 NoSQL Database: [ MongoDB, CouchDB ] <br>
