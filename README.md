@@ -5,8 +5,15 @@
 
 ## 💡- Programming Skills & Technology Stack
 
-- ⚙️ Programming Languages: [ Python, SQL, Java, Shell Script ] <br>
-- 🔎 Big Data & Processing Tools: [ Apache Spark, Apache Kafka, Apache Airflow ] <br>
+- ⚙️ Programming Languages:<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-3D4749?style=flat&logo=gnu-bash&logoColor=white)<br>
+- 🔎 Big Data & Processing Tools: [ Apache Spark, Apache Kafka, Apache Airflow ]<br>
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)<br>
 - 💾 Relational Database: [ Oracle, MySQL, PostgreSQL ] <br>
 - 💾 NoSQL Database: [ MongoDB, CouchDB ] <br>
 - ☁️ Cloud Platforms: [ AWS, Databricks ] <br>
